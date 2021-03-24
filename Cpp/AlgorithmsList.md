@@ -6,3 +6,7 @@ Algorithms Learnt:
     So, for current element maxSubarraySum = max( prevElementSubarraySum + currElenent , currElement)
 
     Eg - Cpp/DSA-gfg/arrays/maxSubarraySum.cpp
+
+2. Boyer Moore's voting algorithm -> used for finding majority element (can also be used to find the second majority ele)
+    Time - O(n), Space - O(1)
+    Eg - Cpp/DSA-gfg/arrays/majorityElement.cpp
